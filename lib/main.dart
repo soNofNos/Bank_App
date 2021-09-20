@@ -47,9 +47,6 @@ class MyHomePage extends StatefulWidget {
   State<MyHomePage> createState() => _MyHomePageState();
 }
 
-
-
-
 class _MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
 
@@ -63,6 +60,7 @@ class _MyHomePageState extends State<MyHomePage> {
       _counter++;
     });
   }
+
   @override
   Widget build(BuildContext context) {
     // This method is rerun every time setState is called, for instance as done
@@ -79,7 +77,6 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
 
       body: Center(
-
         // Center is a layout widget. It takes a single child and positions it
         // in the middle of the parent.
         child: Column(
