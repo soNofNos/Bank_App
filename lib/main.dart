@@ -78,7 +78,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
 
 
-          // children horizontally, and tries to be as tall as its parent.
+
           //
           // Invoke "debug painting" (press "p" in the console, choose the
           // "Toggle Debug Paint" action from the Flutter Inspector in Android
