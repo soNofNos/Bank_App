@@ -82,7 +82,6 @@ class _MyHomePageState extends State<MyHomePage> {
           // Studio, or the "Toggle Debug Paint" command in Visual Studio Code)
           // to see the wireframe for each widget.
           //
-          // Column has various properties to control how it sizes itself and
 
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
