@@ -83,7 +83,6 @@ class _MyHomePageState extends State<MyHomePage> {
           // to see the wireframe for each widget.
           //
           // Column has various properties to control how it sizes itself and
-          // how it positions its children. Here we use mainAxisAlignment to
 
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
