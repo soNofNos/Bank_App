@@ -78,9 +78,6 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
 
 
-
-          // Studio, or the "Toggle Debug Paint" command in Visual Studio Code)
-
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
