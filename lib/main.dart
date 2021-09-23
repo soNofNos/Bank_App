@@ -63,7 +63,6 @@ class _MyHomePageState extends State<MyHomePage> {
 
   @override
   Widget build(BuildContext context) {
-    // fast, so that you can just rebuild anything that needs updating rather
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),
